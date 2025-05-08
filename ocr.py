@@ -13,7 +13,7 @@ def main():
                 "content": [
                 {
                     "type": "text",
-                    "text": "extract the text of the PDF document."
+                    "text": "extract all the text of the PDF document."
                 },
                 {
                     "type": "document_url",
